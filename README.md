@@ -46,7 +46,8 @@
   <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+<div align ="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+</div>
 ---
 <p align="center"><em>Fun fact: ¡Aún no tengo un color favorito!</em></p>
