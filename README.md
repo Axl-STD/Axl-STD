@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner-perfil.png" alt="Axl Banner" width="100%">
+  <img src="banner-github.webp" alt="Axl Banner" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Axl 👋</h1>
