@@ -1,6 +1,6 @@
-<!-- Banner: Reemplaza la URL de abajo con el enlace a tu banner personalizado -->
+
 <p align="center">
-  <img src="URL_DE_TU_BANNER_AQUI" alt="Axl Design & Dev Banner" width="100%">
+  <img src="banner-perfil.png" alt="Axl Banner" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Axl 👋</h1>
