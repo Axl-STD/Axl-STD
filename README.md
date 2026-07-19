@@ -3,9 +3,9 @@
   <img src="banner-github.webp" alt="Axl Banner" width="100%">
 </p>
 
-<h1 align="center">¡Hola! Soy Axl 👋</h1>
+<h1 align="center">¡Hi! I'm Axl 👋</h1>
 <p align="center">
-  <em>Estudiante de Ciencias de la Computación & Diseñador Freelance</em>
+  <em>Computer Science Student & Freelance Designer</em>
 </p>
 
 ---
@@ -29,14 +29,14 @@
 
 ---
 
-## 🚀 En qué estoy trabajando ahora
-* 🍕 **Proyecto Actual:** Desarrollando una aplicación web para un restaurante.
-* 📚 **Aprendiendo:** Profundizando en *React* y *Docker* para mejorar mis despliegues.
-* 🤝 **Colaboración:** ¡Siempre abierto a nuevos proyectos y retos creativos!
+## 🚀 What I'm Working On Right Now
+* 🍕 **Current Project:** Developing a web app for a restaurant.
+* 📚 **Learning:** Diving deeper into *React* and *Docker* to improve my deployments.
+* 🤝 **Collaboration:** Always open to new projects and creative challenges!
 
 ---
 
-## 🔗 Conectemos
+## 🔗 Connections
 <p align="center">
   <a href="https://axl-studio.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,4 +45,4 @@
 
 
 ---
-<p align="center"><em>Fun fact: ¡Aún no tengo un color favorito!</em></p>
+<p align="center"><em>Fun fact: I still don't have a favorite color!</em></p>
