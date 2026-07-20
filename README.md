@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="comp 1.gif" alt="Animated Banner" width="100%" max-width="1200">
+  <img src="Comp%201.gif" alt="Academic Task Manager Banner" width="100%">
 </p>
 
 
