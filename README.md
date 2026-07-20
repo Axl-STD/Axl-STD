@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="banner-github.webp" alt="Axl Banner" width="100%">
+  <img src="./assets/comp 1.gif"/>
 </p>
+
 
 <h1 align="center">¡Hi! I'm Axl 👋</h1>
 <p align="center">
