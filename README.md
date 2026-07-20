@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/comp 1.gif"/>
+  <img src="comp 1.gif" alt="Animated Banner" width="100%" max-width="1200">
 </p>
 
 
